@@ -2,6 +2,8 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
 
+This project was based on a tutorial from [Scotch.io](https://scotch.io/courses/getting-started-with-angular-2). It really helped me, and if you're at all curious of or confused by Angular 2's new setup, give it a look-see.
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
